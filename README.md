@@ -1,4 +1,4 @@
-# Olá, eu sou [Vitor Barbosa]! 👋
+# Olá, eu sou Vitor Barbosa! 👋
 
 ## 🚀 Sobre Mim
 Sou um Estudante apaixonado por **Big Data, Analytics e Inteligência Artificial**. Meu foco é transformar grandes volumes de dados brutos em soluções inteligentes e insights estratégicos. Aprendendo a construir pipelines de dados robustos, criar modelos preditivos e contar histórias através da visualização de dados.

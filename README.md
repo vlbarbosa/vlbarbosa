@@ -1,43 +1,53 @@
-# Olá, eu sou Vitor Barbosa! 👋
+# Olá, eu sou Vitor Barbosa! 👋 | QA Analyst
 
 ## 🚀 Sobre Mim
-Sou um Estudante apaixonado por **Big Data, Analytics e Inteligência Artificial**. Meu foco é transformar grandes volumes de dados brutos em soluções inteligentes e insights estratégicos. Aprendendo a construir pipelines de dados robustos, criar modelos preditivos e contar histórias através da visualização de dados.
+Analista de QA em transição com **10 anos de experiência como Quality Gate**, validação de requisitos, regras de negócio e auditoria de processos no Ministério do Esporte e no CBCP. Hoje aplico essa mentalidade de qualidade e conformidade em **Teste de Software**.
 
-* 🔭 Atualmente estou trabalhando em: **O Universo do Futebol**
-* 🌱 Atualmente estou aprendendo: **MLOps, Arquitetura de Data Lakehouse, NLP**
-* 👯 Estou procurando colaborar em: **Projetos Open Source de IA e Data Science**
-* 💬 Pergunte-me sobre: **Python, SQL, Arquitetura de Big Data e Machine Learning**
-* 📫 Como me encontrar: **vitoor.projects@outlook.com**
+Transformei meu olhar de auditor de processos em olhar de QA de sistemas: criação de casos de teste, matriz de rastreabilidade e documentação de bugs.
+
+* 🔍 **Foco atual:** QA Manual, API Testing e início em Automação com Robot Framework
+* 🌱 **Estudando agora:** Robot Framework, Cypress, Postman Avançado, SQL Avançado e Scrum
+* 🧪 **O que eu faço:** Testes Funcionais, Regressivos, Exploratórios, E2E | Casos de Teste e Checklists | Bug Reports e Evidências
+* 💬 **Pergunte-me sobre:** Validação de Requisitos, Matriz de Rastreabilidade, SQL, Python para QA, Postman
+* 📫 **Como me encontrar:** vitoor.ads@outlook.com
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## 🛠 Tech Stack & Ferramentas - QA
 
-### 💻 Linguagens & Scripting
+### 🧪 Teste de Software & Automação
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=black)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### 💻 Linguagens & Banco de Dados para QA
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bash](https://img.shields.io/badge/gnu%20bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 📊 Big Data & Cloud
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 🤖 IA & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🔧 Ferramentas & Metodologias
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
-### 📈 Visualização & BI
+### 📊 Conhecimento complementar em Dados
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque de QA
+
+> Estou migrando meu portfólio de Data Analytics para QA. Novos repositórios de QA em construção:
+
+- **[qa-api-testing-postman]** - Coleção Postman com testes de API REST (ViaCEP / JSONPlaceholder) com validações de contrato e status code
+- **[robot-framework-ecommerce-tests]** - Automação E2E com Robot Framework + Selenium (SauceDemo)
+- **[qa-manual-test-cases-e-bug-reports]** - Templates de Casos de Teste, Matriz de Rastreabilidade e Bug Reports
+- **AI-Audit-System-Gastos-Publicos** - Sistema de auditoria que aplica conceitos de Quality Gate e validação de regras de negócio
 
 ---
 
@@ -54,10 +64,13 @@ Sou um Estudante apaixonado por **Big Data, Analytics e Inteligência Artificial
 
 ## 🔗 Conecte-se comigo
 <div align="center">
-  <a href="https://www.linkedin.com/in/vlbarbosa" target="_blank">
+  <a href="https://www.linkedin.com/in/vitoor.irbl" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:vitoor.projects@outlook.com">
+  <a href="mailto:vitoor.ads@outlook.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/vlbarbosa">
+    <img src="https://img.shields.io/badge/-Portfólio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
 </div>
